@@ -4,10 +4,6 @@
 
 Coding, electronics, embedded systems, and learning by building.
 
-# OrsonForge
-
-Coding, electronics, embedded systems, and learning by building.
-
 ---
 
 ## The Story Behind OrsonForge
