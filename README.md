@@ -1,6 +1,6 @@
 <!-- Banner -->
 <!-- Add your banner image below -->
-<!-- Example: ![OrsonForge Banner](./banner.png) -->
+<!-- Example: ![OrsonForge Banner](orsonforge_banner.jpg)) -->
 [OrsonForge Banner](./orsonforge_banner.jpg)
 ./orsonforge_banner.jpg
 
