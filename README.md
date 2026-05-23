@@ -1,7 +1,7 @@
 <!-- Banner -->
 <!-- Add your banner image below -->
 <!-- Example: ![OrsonForge Banner](./banner.png) -->
-
+[OrsonForge Banner](./orsonforge_banner.png)
 # OrsonForge
 
 Coding, electronics, embedded systems, and learning by building.
